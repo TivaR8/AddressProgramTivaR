@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.frmAddressProgram.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\bin\Debug\AddressProgramTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\bin\Debug\AddressProgramTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\bin\Debug\AddressProgramTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AddressProgramTivaR\AddressProgramTivaR\obj\Debug\AddressProgramTivaR.pdb
